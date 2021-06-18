@@ -13,7 +13,7 @@ Questions? Comments?:
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lab |  NLP EDA Notebook | [Link](./starter-code.ipynb)|
+| Report |  NLP EDA Notebook | [Link](./starter-code.ipynb)|
 | Dataset | MyPersonality Datasets | [Link](./data) |
 
 ---
