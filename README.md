@@ -5,7 +5,7 @@ Questions? Comments?:
 3. Reach out to the data team on Slack and share your thoughts!
 --->
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Natural Language Processing EDA Lab
+# Facebook Status Parser
 
 <!--- Unit and sequence information. This template is an instructor-facing description for a given activity or lab. --->
 
