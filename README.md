@@ -10,6 +10,7 @@ Questions? Comments?:
 <!--- Unit and sequence information. This template is an instructor-facing description for a given activity or lab. --->
 
 The notebook structure was provided by General Assembly.
+The solutions are mine.
 
 | Topic | Description | Link |
 | --- | --- | --- |
