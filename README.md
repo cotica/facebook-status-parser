@@ -9,11 +9,11 @@ Questions? Comments?:
 
 <!--- Unit and sequence information. This template is an instructor-facing description for a given activity or lab. --->
 
-
+The notebook structure was provided by General Assembly.
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Report |  NLP EDA Notebook | [Link](./starter-code.ipynb)|
+| Report |  NLP EDA Notebook | [Link](https://github.com/cotica/facebook-status-parser/blob/main/lab-5-02-NLP-personality-types-starter-code.ipynb)|
 | Dataset | MyPersonality Datasets | [Link](./data) |
 
 ---
